@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hilal Kabanllı</h1>
 <h3 align="center">A passionate full-stack developer from Turkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hilalkabanli" alt="hilalkabanli" /></a> </p>
 
 - 💬 Ask me about **.Net**
 
